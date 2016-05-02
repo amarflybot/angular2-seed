@@ -1,6 +1,0 @@
-{
-  "name": "Angular2-seed",
-  "tagline": "First Angular2 App",
-  "body": "## angular2-seed\r\n\r\nA simple starter project demonstrating the basic concepts of Angular 2.\r\n\r\nThis branch uses [Webpack](https://webpack.github.io/) for Development. There is also a SystemJS branch available.\r\n\r\n### Usage\r\n- Clone or fork this repository\r\n- Make sure you have [node.js](https://nodejs.org/) installed\r\n- run `npm install -g webpack webpack-dev-server typings typescript` to install global dependencies\r\n- run `npm install` to install dependencies\r\n- run `npm start` to fire up dev server\r\n- open browser to [`http://localhost:3000`](http://localhost:3000)\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
